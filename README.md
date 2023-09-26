@@ -1,4 +1,4 @@
-[![@niladityacoder01's Holopin board](https://holopin.me/niladityacoder01)](https://holopin.io/@niladityacoder01)
+[![An image of @niladityacoder01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niladityacoder01)](https://holopin.io/@niladityacoder01)
 <h1 align="center">Hi 👋, I'm NILADITYA KAR</h1>
 <h3 align="center">IT Student | 1st Year | Netaji Subhash Engineering College, Kolkata</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
