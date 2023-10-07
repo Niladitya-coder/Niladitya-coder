@@ -1,3 +1,4 @@
+[![An image of @niladityacoder01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niladityacoder01)](https://holopin.io/@niladityacoder01)
 <h1 align="center">Hi 👋, I'm NILADITYA KAR</h1>
 <h3 align="center">IT STUDENT | 2nd Year | Netaji Subhash Engineering College,Kolkata</h3>
 
