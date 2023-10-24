@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Artemis II and You!](https://github.com/Niladitya-coder/artemis2-and-you.git)
 
-- 🌱 I’m currently learning **Python, C, Front End Web Development (HTML, CSS, JS), DSA**
+- 🌱 I’m currently learning **Front-End Web Development & DSA**
 
-- 💬 Ask me about **PYTHON, HTML, C**
+- 💬 Ask me about **PYTHON, C, HTML**
 
 - 📫 How to reach me **niladityakar@gmail.com**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niladitya kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niladitya kar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/niladityakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/niladityakar" height="30" width="40" /></a>
 <a href="https://fb.com/niladitya kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niladitya kar" height="30" width="40" /></a>
 <a href="https://instagram.com/niladityakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niladityakar" height="30" width="40" /></a>
 </p>
