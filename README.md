@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/niladityacoder01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="niladityacoder01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/niladityakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/niladityakar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niladityakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niladityakar" height="30" width="40" /></a>
 <a href="https://fb.com/niladityakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niladityakar" height="30" width="40" /></a>
 <a href="https://instagram.com/niladityakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niladityakar" height="30" width="40" /></a>
 </p>
@@ -30,6 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niladitya-coder&show_icons=true&locale=en&layout=compact" alt="niladitya-coder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niladitya-coder&show_icons=true&locale=en" alt="niladitya-coder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niladitya-coder&" alt="niladitya-coder" /></p>
-
