@@ -1,6 +1,9 @@
 [![An image of @niladityacoder01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niladityacoder01)](https://holopin.io/@niladityacoder01)
 <h1 align="center">Hi 👋, I'm NILADITYA KAR</h1>
 <h3 align="center">IT STUDENT | 2nd Year | Netaji Subhash Engineering College,Kolkata</h3>
+<img align="right" alt="Coder" width="400" src="![image](https://github.com/Niladitya-coder/Niladitya-coder/assets/115726575/466b22b5-496a-4ba8-bf28-7aef44dab761)"/>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niladitya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="niladitya-coder" /> </p>
 
