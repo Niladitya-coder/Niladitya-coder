@@ -1,3 +1,4 @@
+[![An image of @niladityacoder01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niladityacoder01)](https://holopin.io/@niladityacoder01)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NILADITYA KAR
 =====================================================================================================================================
 
@@ -13,7 +14,7 @@ I'm Niladitya, an enthusiastic IT student on a journey to become a Software Engi
 * ⚡  I have a passion for photography.
 
 <a href="https://www.github.com/Niladitya-coder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Niladitya-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Niladitya-coder?logo=github&style=for-the-badge&color=facc15&labelColor=171717" /></a>
 
 ### Skills
 
@@ -31,14 +32,12 @@ src="https://img.shields.io/github/followers/Niladitya-coder?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Niladitya-coder"><img src="https://github-readme-stats.vercel.app/api?username=Niladitya-coder&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Niladitya-coder's GitHub stats" /></a>
+<a href="http://www.github.com/Niladitya-coder"><img src="https://github-readme-stats.vercel.app/api?username=Niladitya-coder&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=14b8a6&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="Niladitya-coder's GitHub stats" /></a>
 
-<a href="http://www.github.com/Niladitya-coder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Niladitya-coder&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Niladitya-coder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Niladitya-coder&stroke=14b8a6&background=171717&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/Niladitya-coder"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Niladitya-coder&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Niladitya-coder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niladitya-coder&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Niladitya-coder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niladitya-coder&langs_count=10&title_color=84cc16&text_color=14b8a6&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Niladitya-coder/artemis2-and-you" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Niladitya-coder&repo=artemis2-and-you&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Niladitya-coder/artemis2-and-you" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Niladitya-coder&repo=artemis2-and-you&title_color=84cc16&text_color=14b8a6&icon_color=facc15&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
