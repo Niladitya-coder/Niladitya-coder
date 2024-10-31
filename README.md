@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋! My name is NILADITYA KAR and I'm an IT Student, from Kolkata</h1>
 
 ###
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+ </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niladitya-coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
